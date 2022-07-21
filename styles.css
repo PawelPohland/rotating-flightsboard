@@ -78,3 +78,13 @@ body {
     transform: rotateX(0deg);
   }
 }
+
+button {
+  font-size: 20px;
+  color: #333;
+  cursor: pointer;
+}
+
+button:hover {
+  filter: invert(100%);
+}
